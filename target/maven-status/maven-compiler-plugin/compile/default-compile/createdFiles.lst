@@ -1,0 +1,9 @@
+com/kakahdfs/FileInfo.class
+com/kakahdfs/FileCopy.class
+com/kakamapreducetest/IntSumReducer.class
+com/kakamapreducetest/WordCount.class
+com/kakahdfs/FileList.class
+com/kakamapreducetest/TokenizerMapper.class
+com/kakahdfs/FileCat.class
+com/Serializable/IntSer.class
+com/kakahdfs/FileDelete.class
