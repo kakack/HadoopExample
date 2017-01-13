@@ -1,4 +1,4 @@
-package com.kakamapreducetest;
+package com.MapReduce;
 
 ///**
 // * Created by kakack on 2016/12/29.

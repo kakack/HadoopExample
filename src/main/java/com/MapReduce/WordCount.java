@@ -1,4 +1,4 @@
-package com.kakamapreducetest;
+package com.MapReduce;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;

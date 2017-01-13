@@ -1,4 +1,4 @@
-package com.kakamapreducetest;
+package com.MapReduce;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;

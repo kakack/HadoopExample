@@ -1,4 +1,4 @@
-package com.kakahdfs;
+package com.HDFS;
 
 /**
  * Created by kakack on 2017/1/12.
