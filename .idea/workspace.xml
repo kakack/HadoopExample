@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a19b3789-ba3c-4e7e-ad64-4760b19479cb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/Compress/CprsF2F.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/kakahdfs/FileCat.java" afterPath="$PROJECT_DIR$/src/main/java/com/HDFS/FileCat.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/kakahdfs/FileCopy.java" afterPath="$PROJECT_DIR$/src/main/java/com/HDFS/FileCopy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/kakahdfs/FileDelete.java" afterPath="$PROJECT_DIR$/src/main/java/com/HDFS/FileDelete.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/kakahdfs/FileInfo.java" afterPath="$PROJECT_DIR$/src/main/java/com/HDFS/FileInfo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/kakahdfs/FileList.java" afterPath="$PROJECT_DIR$/src/main/java/com/HDFS/FileList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/kakamapreducetest/HBaseMapReduceRead.java" afterPath="$PROJECT_DIR$/src/main/java/com/MapReduce/HBaseMapReduceRead.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/kakamapreducetest/IntSumReducer.java" afterPath="$PROJECT_DIR$/src/main/java/com/MapReduce/IntSumReducer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/kakamapreducetest/TokenizerMapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/MapReduce/TokenizerMapper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/kakamapreducetest/WordCount.java" afterPath="$PROJECT_DIR$/src/main/java/com/MapReduce/WordCount.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/Compress/CprsIn2F.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/Compress/DcprsF2F.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/kakahdfs/FileCat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/kakahdfs/FileCopy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/kakahdfs/FileDelete.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/kakahdfs/FileInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/kakahdfs/FileList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/kakamapreducetest/IntSumReducer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/kakamapreducetest/TokenizerMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/kakamapreducetest/WordCount.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/Serializable/IntSer.class" afterPath="$PROJECT_DIR$/target/classes/com/Serializable/IntSer.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Compress/CprsF2F.java" afterPath="$PROJECT_DIR$/src/main/java/com/Compress/CprsF2F.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
     </list>
     <ignored path="HadoopExample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,12 +49,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CprsF2F.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CprsF2F.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Compress/CprsF2F.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10344828">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="40" selection-end-column="98" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CprsIn2F.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Compress/CprsIn2F.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DcprsF2F.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Compress/DcprsF2F.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8689655">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,6 +105,15 @@
     </option>
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/Compress/CprsF2F.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Compress/CprsIn2F.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Compress/DcprsF2F.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
@@ -737,7 +775,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139000" />
+    <option name="totallyTimeSpent" value="3677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -787,9 +825,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Compress/CprsF2F.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10344828">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="40" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Compress/CprsIn2F.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Compress/DcprsF2F.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8689655">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
