@@ -1,1 +1,14 @@
-/Users/apple/Personal/workspace/MapReduceTest/src/main/java/HBaseMapReduceRead.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/HDFS/FileList.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/MapReduce/TokenizerMapper.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/MapReduce/HBaseMapReduceRead.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/HDFS/FileCopy.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/Compress/CprsF2F.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/Compress/DcprsF2F.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/HDFS/FileDelete.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/HDFS/FileCat.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/MapReduce/WordCount.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/Serializable/IntSer.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/Compress/CprsIn2F.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/MapReduce/IntSumReducer.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/HDFS/FileInfo.java
+/Users/apple/Personal/GitKaka/HadoopExample/src/main/java/com/MapReduce/NewPiEst.java
