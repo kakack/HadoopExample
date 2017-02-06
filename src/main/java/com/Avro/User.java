@@ -234,7 +234,7 @@ public class User extends org.apache.avro.specific.SpecificRecordBase implements
       return this;
     }
 
-    
+
     public User build() {
       try {
         User record = new User();
